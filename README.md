@@ -26,8 +26,8 @@ Quick start:
 Demo:
 Press ctrl-space in a Command Prompt or Power Shell to get instant natural-language translation in-line with your application.
 
-Future improvements:
-1. Add the directory/pwd or directory structure
+Ways to improvement:
+1. Add additional info to help with context such as current directory, recent last commands and/or errors, etc.
 2. Other GUI improvements
 
 Known issues:
