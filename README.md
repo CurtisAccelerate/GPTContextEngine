@@ -23,6 +23,14 @@ Quick start:
 2.2 npm start
 4. Load and run the AHK script. I use Scite4AHK for this. You must install JSON library from https://github.com/cocobelgica/AutoHotkey-JSON in same directory.
 
+Demo:
+Press ctrl-space in a Command Prompt or Power Shell to get instant natural-language translation in-line with your application.
+
+Future improvements:
+1. Add the directory/pwd or directory structure
+2. Other GUI improvements
+   
+
 
 
    
