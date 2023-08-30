@@ -4,7 +4,7 @@ This is beta demo.
 
 # What it does? 
 
-Press Ctrl-Space to open input field. It will detect the current context: Powershell or Command and translate your natural language into its best guess 
+Press Ctrl-Space to open input field. It will detect the current context: Powershell or Command Prompt and translate your natural language into its best guess 
 of the appropriate command. This is a demo and there are some natural improvements possible.
 
 **Caution*** Exercise extreme care with any executed commands. Do not use for critical or production applications.
