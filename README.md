@@ -21,7 +21,7 @@ Quick start:
 2. Start the zsodur node.js server from https://github.com/zsodur/chatgpt-api-by-browser-script
 2.1 npm install
 2.2 npm start
-4. Load and run the AHK script. I use Scite4AHK for this.
+4. Load and run the AHK script. I use Scite4AHK for this. You must install JSON library from https://github.com/cocobelgica/AutoHotkey-JSON in same directory.
 
 
 
