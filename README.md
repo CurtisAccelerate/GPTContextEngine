@@ -12,16 +12,16 @@ of the appropriate command. This is a demo and there are some natural improvemen
 Components:
 
 1. I updated the Chrome TamperMonkey Script updated/fixed from [https://github.com/CurtisAccelerate/chatgpt-api-by-browser-script](https://github.com/zsodur/chatgpt-api-by-browser-script)https://github.com/zsodur/chatgpt-api-by-browser-script  for GUI changes.
-2. Zsodur's ChatGPT Server cript. This is not required if connecting to OpenAI API vs ChatGPT. 
+2. Zsodur's ChatGPT Server script. This is not required if connecting to OpenAI API vs ChatGPT but API will need changed slightly.
 3. AutoHotKey script adapted from my GPTAnywhere pattern.
 
 Quick start:
 
-1. Install the TamperMonkey script into Chrome.
-2. Start the zsodur node.js server.
+1. Install the TamperMonkey script included into Chrome.
+2. Start the zsodur node.js server from https://github.com/zsodur/chatgpt-api-by-browser-script
 2.1 npm install
 2.2 npm start
-3. Load and run the AHK script. I use Scite4AHK for this.
+4. Load and run the AHK script. I use Scite4AHK for this.
 
 
 
