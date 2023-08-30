@@ -29,9 +29,12 @@ Press ctrl-space in a Command Prompt or Power Shell to get instant natural-langu
 Future improvements:
 1. Add the directory/pwd or directory structure
 2. Other GUI improvements
+
+Known issues:
+1. The submit button only works currently with code interpreter / advanced data analysis model selected. See get getnext sibling in the script which selects the button.
+2. The window must be sized so the continue/regen button is visible.
    
-
-
+   
 
    
 
